@@ -5,8 +5,6 @@ In this project we create a Dashboard based on which User would be able to analy
 The special features are:
 
 - User should have the ability to search the different stocks based on the symbols and view the chart.
-- Users should be able to filter the stock’s performance on specific date range(Weekly/Monthly)
-- Users should be able to view the history of their searches.
 - Users should have ability to switch between OHLC, Colored Bar, Vertex Line.
 
 
