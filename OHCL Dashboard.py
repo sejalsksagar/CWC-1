@@ -12,11 +12,7 @@ movements in the price of a financial instrument over time.")
 
 symbol = st.text_input("Enter Company Symbol: ")
 if len(symbol) != 0:
-    #write entered symbol in input.txt
     symbol = symbol.upper()
-    file = open("input.txt", "a")
-    file.write(symbol + "\n")
-    file.close()
 
     #find symbol in StockList_csv.csv
     count = rr.find_symbol(symbol)
