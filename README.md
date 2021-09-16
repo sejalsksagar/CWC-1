@@ -12,7 +12,7 @@ The special features are:
 Install pandas, plotly and streamlit.
 
 ```bash
-  pip install pandas  
+ pip install pandas  
 ```
 
 ```bash
@@ -23,25 +23,21 @@ Install pandas, plotly and streamlit.
  pip install streamlit 
 ```
 
-## How to get the application running
-1.Make sure you have all the required packages installed
+## How to get started
+1. Make sure you have all the required packages installed
 
-2.Open the command line in the same folder where you cloned the repository
+2. Open the command line in the same folder where you cloned the repository
 
-3.Type the command `streamlit run "path\to\file\OHCL Dashboard.py"`
+3. Type the command `streamlit run "path\to\file\OHCL Dashboard.py"`
 
 
 
 
   
 ##  About us
-Sejal Kshirsagar (sejal.kshirsagar@cumminscollege.in)
-
-Rutuja Wasu (rutuja.wasu@cumminscollege.in)
-
-Sejal Loya (sejal.loya@cumminscollege.in)
-
-Sanjyot Amritkar (sanjyot.amritkar@cumminscollege.in)
-
-Jasmine Joshi (jasminejoshi10@gmail.com)
+- Sejal Kshirsagar (sejal.kshirsagar@cumminscollege.in)
+- Rutuja Wasu (rutuja.wasu@cumminscollege.in)
+- Sejal Loya (sejal.loya@cumminscollege.in)
+- Sanjyot Amritkar (sanjyot.amritkar@cumminscollege.in)
+- Jasmine Joshi (jasminejoshi10@gmail.com)
   
